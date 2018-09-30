@@ -1,0 +1,13 @@
+com.android
+com.android.annotations
+com.android.annotations.concurrency
+com.android.ddmlib
+com.android.ddmlib.log
+com.android.ddmlib.logcat
+com.android.ddmlib.testrunner
+com.android.ddmlib.utils
+com.android.ide.common.blame
+com.android.io
+com.android.prefs
+com.android.utils
+com.android.xml
